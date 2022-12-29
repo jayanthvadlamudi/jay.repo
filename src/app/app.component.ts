@@ -24,16 +24,16 @@ console.log (this.arithmaticoperations(1, 2, 3, "sub"));
   }
 }
 
-{
-var a=453;
-var b=6587;
-var temp=a;
-
- temp=a;
-a=b;
- b=temp;
-console.log(a,b);
-}
+//{
+//var a=453;
+//var b=6587;
+//var temp=a;
+//
+ //temp=a;
+//a=b;
+ //b=temp;
+//console.log(a,b);
+//}
 
 
 { 
@@ -52,11 +52,12 @@ let temp=i;
 for(i=4;i>=1;i--){
   mult=mult*1;
 
+
+
 temp=i;
 i=mult;
 mult=temp;
 }
 console.log(mult);
-
 
 }
