@@ -24,16 +24,16 @@ console.log (this.arithmaticoperations(1, 2, 3, "sub"));
   }
 }
 
-//{
-//var a=453;
-//var b=6587;
-//var temp=a;
-//
- //temp=a;
-//a=b;
- //b=temp;
-//console.log(a,b);
-//}
+{
+var a=453;
+var b=6587;
+var temp=a;
+
+ temp=a;
+a=b;
+ b=temp;
+console.log(a,b);
+}
 
 
 { 
